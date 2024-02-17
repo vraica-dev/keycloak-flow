@@ -6,7 +6,7 @@ import time
 
 
 class KLAuthClient:
-    CLIENT_ID = "rbc_test"
+    CLIENT_ID = "kl_test"
     CLIENT_SECRET = "mSwqytawzeRUWFvQYulyjP3ABQFnGuOA"
     USERNAME = "__ur__username"
     PASSWORD = "__ur_password"
